@@ -1,4 +1,4 @@
-module github.com/sirius1b/gin-mdlwrr
+module github.com/sirius1b/gin-middleware
 
 go 1.24.1
 
